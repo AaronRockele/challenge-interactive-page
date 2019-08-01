@@ -7,6 +7,12 @@ body {
 * {box-sizing:border-box}
 
 /* Slideshow container */
+.container {
+  
+}
+.container-2 {
+  background: white;
+}
 .slideshow-container {
   margin-top: 20%;
   max-width: 1000px;
@@ -100,10 +106,7 @@ body {
   to {opacity: 1}
 }
 
-<<<<<<< HEAD
-=======
 /* Style the tab */
->>>>>>> 896614a96602f58043b438f48b8350aa432acc70
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
