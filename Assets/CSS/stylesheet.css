@@ -100,6 +100,10 @@ body {
   to {opacity: 1}
 }
 
+<<<<<<< HEAD
+=======
+/* Style the tab */
+>>>>>>> 896614a96602f58043b438f48b8350aa432acc70
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
